@@ -1,0 +1,11 @@
+
+N
+java:S1854"9Remove this useless assignment to local variable "files".(ÎÐï
+?
+java:S1481"*Remove this unused "files" local variable.(ÎÐï
+A
+java:S1874 "+Remove this use of "Job"; it is deprecated.(äª›ý
+P
+java:S11619":Add the "@Override" annotation above this method signature(©âó–
+P
+java:S1161B":Add the "@Override" annotation above this method signature(¯ÈÂÝ

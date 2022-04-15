@@ -1,0 +1,30 @@
+
+N
+java:S1854"9Remove this useless assignment to local variable "files".(ÎĞï
+@
+java:S1197"*Move the array designators [] to the type.(Å®œŸ
+?
+java:S1481"*Remove this unused "files" local variable.(ÎĞï
+A
+java:S1874!"+Remove this use of "Job"; it is deprecated.( ’»Š
+S
+java:S1854I"8Remove this useless assignment to local variable "flow".(Øë¼ùÿÿÿÿ
+P
+java:S1161=":Add the "@Override" annotation above this method signature(©âó–
+E
+java:S1197D"*Move the array designators [] to the type.(½ ºËûÿÿÿÿ
+D
+java:S1481I")Remove this unused "flow" local variable.(Øë¼ùÿÿÿÿ
+V	java:S125S"<This block of commented-out lines of code should be removed.(½‚°Öüÿÿÿÿ
+V	java:S125Y"<This block of commented-out lines of code should be removed.(•Ô¾¼ùÿÿÿÿ
+Q	java:S125["<This block of commented-out lines of code should be removed.(‰Çç
+U
+java:S1161a":Add the "@Override" annotation above this method signature(°„ŠÇøÿÿÿÿ
+V	java:S125d"<This block of commented-out lines of code should be removed.(ÔïÔíşÿÿÿÿ
+A
+java:S1481f"+Remove this unused "somaNs" local variable.(Êåİ³
+Q	java:S125r"<This block of commented-out lines of code should be removed.(é—ˆû
+Q	java:S125u"<This block of commented-out lines of code should be removed.(‘±œš
+Q	java:S125x"<This block of commented-out lines of code should be removed.(‘±œš
+\
+java:S1128"?Remove this unused import 'org.apache.hadoop.io.FloatWritable'.(µ©Œó8ª¤úÚ‚0
